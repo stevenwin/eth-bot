@@ -1,0 +1,24 @@
+{
+  "name": "eth-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twit.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenwin/eth-bot.git"
+  },
+  "author": "stevenwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenwin/eth-bot/issues"
+  },
+  "homepage": "https://github.com/stevenwin/eth-bot#readme"
+}
